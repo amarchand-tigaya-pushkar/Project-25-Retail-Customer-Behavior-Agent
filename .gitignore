@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pt
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+output/*.csv
+output/*.xlsx
+runs/
+.streamlit/secrets.toml
+.DS_Store
